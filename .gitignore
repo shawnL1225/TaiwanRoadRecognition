@@ -1,0 +1,10 @@
+dataset/*
+videos/*
+.vscode
+bin/*
+
+ckpt/*
+build/*
+darkflow.egg-info/*
+darkflow/*
+flow
